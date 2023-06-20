@@ -40,47 +40,4 @@ npm run preview
 ```
 
 Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
-Contribution: 2023-05-22 20:00
-
-Contribution: 2023-05-23 20:00
-
-Contribution: 2023-05-23 20:01
-
-Contribution: 2023-05-25 20:00
-
-Contribution: 2023-05-25 20:01
-
-Contribution: 2023-05-25 20:02
-
-Contribution: 2023-05-26 20:00
-
-Contribution: 2023-05-29 20:00
-
-Contribution: 2023-05-29 20:01
-
-Contribution: 2023-05-29 20:02
-
-Contribution: 2023-05-31 20:00
-
-Contribution: 2023-05-31 20:01
-
-Contribution: 2023-06-01 20:00
-
-Contribution: 2023-06-01 20:01
-
-Contribution: 2023-06-01 20:02
-
-Contribution: 2023-06-02 20:00
-
-Contribution: 2023-06-02 20:01
-
-Contribution: 2023-06-05 20:00
-
-Contribution: 2023-06-06 20:00
-
-Contribution: 2023-06-07 20:00
-
-Contribution: 2023-06-07 20:01
-
-Contribution: 2023-06-07 20:02
 
